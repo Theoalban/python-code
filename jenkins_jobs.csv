@@ -1,0 +1,23 @@
+Job Name,Job URL,Job Color,Job Fullname
+Dev,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Dev/,Not Available,Dev
+Devops,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/,Not Available,Devops
+frist-job,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/frist-job/,blue,frist-job
+geo-app,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/geo-app/,blue,geo-app
+mavenProject,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/mavenProject/,blue,mavenProject
+pipelinejob,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/pipelinejob/,red,pipelinejob
+Prof-test,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Prof-test/,Not Available,Prof-test
+QA,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/QA/,Not Available,QA
+terraform-code,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code/,blue,terraform-code
+terraform-code1,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code1/,blue,terraform-code1
+terraform-code2,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code2/,blue,terraform-code2
+test-job,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/test-job/,blue,test-job
+week16,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/week16/,Not Available,week16
+dev-maven,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Dev/job/dev-maven/,notbuilt,Dev/dev-maven
+maben-job,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/job/maben-job/,notbuilt,Devops/maben-job
+maven-pipeline,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/job/maven-pipeline/,blue,Devops/maven-pipeline
+terraform-project,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/job/terraform-project/,blue,Devops/terraform-project
+test-pipeline,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/job/test-pipeline/,blue,Devops/test-pipeline
+hello-ansible,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Prof-test/job/hello-ansible/,blue,Prof-test/hello-ansible
+project-geo,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Prof-test/job/project-geo/,blue,Prof-test/project-geo
+geo-week16,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/week16/job/geo-week16/,blue,week16/geo-week16
+test-node-agent,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/week16/job/test-node-agent/,blue,week16/test-node-agent

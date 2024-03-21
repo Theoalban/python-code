@@ -1,0 +1,14 @@
+Job_Name,Job_URL,Job_Last_Build_Status
+Dev,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Dev/,
+Devops,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Devops/,
+frist-job,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/frist-job/,blue
+geo-app,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/geo-app/,blue
+mavenProject,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/mavenProject/,blue
+pipelinejob,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/pipelinejob/,red
+Prof-test,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/Prof-test/,
+QA,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/QA/,
+terraform-code,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code/,blue
+terraform-code1,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code1/,blue
+terraform-code2,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/terraform-code2/,blue
+test-job,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/test-job/,blue
+week16,http://ec2-44-213-99-52.compute-1.amazonaws.com:8080/job/week16/,

@@ -8,9 +8,10 @@ result = mf.Command("pwd")
 print(result)
 
 #     Best practice
-from myFunction import Command,hello
-Command('pwd')
-hello()
+from  myFunction import *   # Import everything from the "myFunction"
+from myFunction import Command,hello # Import specific functions only
+Command('pwd') # Calling a function directly
+hello()        # Calling a function directly
 from os import system,mkdir
 mkdir('folder1') #creates a folder named 'folder1' in the current directory.
 system("cd folder1")#changes the working directory to 'folder1'.
